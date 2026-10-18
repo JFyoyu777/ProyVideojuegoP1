@@ -3,7 +3,7 @@
 package videojuego;
 
 public class Main {
-    public static void main(Strings[] args){
+    public static void main(String[] args){
 
         Videojuego juego1 = new Videojuego();
         Videojuego juego2 = new Videojuego();
